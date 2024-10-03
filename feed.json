@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Whiskey 9 Bravo Lima November",
+    "description": "",
+    "home_page_url": "https://jwalsh2.me/w9bln-pages",
+    "feed_url": "https://jwalsh2.me/w9bln-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "John Walsh, W9BLN"
+    },
+    "items": [
+        {
+            "id": "https://jwalsh2.me/w9bln-pages/hello-world.html",
+            "url": "https://jwalsh2.me/w9bln-pages/hello-world.html",
+            "title": "Hello World",
+            "summary": "Test post...",
+            "content_html": "\n  <p>\n    Test post...\n  </p>",
+            "author": {
+                "name": "John Walsh, W9BLN"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-03T09:43:13-05:00",
+            "date_modified": "2024-10-03T09:43:13-05:00"
+        }
+    ]
+}
