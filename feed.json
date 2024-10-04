@@ -2,26 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Whiskey 9 Bravo Lima November",
     "description": "",
-    "home_page_url": "https://jwalsh2.me/w9bln-pages",
-    "feed_url": "https://jwalsh2.me/w9bln-pages/feed.json",
+    "home_page_url": "https://w9bln.net",
+    "feed_url": "https://w9bln.net/feed.json",
     "user_comment": "",
     "author": {
         "name": "John Walsh"
     },
     "items": [
         {
-            "id": "https://jwalsh2.me/w9bln-pages/hello-world-2/",
-            "url": "https://jwalsh2.me/w9bln-pages/hello-world-2/",
+            "id": "https://w9bln.net/hello-world-2/",
+            "url": "https://w9bln.net/hello-world-2/",
             "title": "Hello World",
             "summary": "print(\"Hello World!\")",
-            "content_html": "<pre class=\"language-python\"><code>print(\"Hello World!\")</code></pre>",
+            "content_html": "<pre class=\"language-python line-numbers\"><code>print(\"Hello World!\")</code></pre>",
             "author": {
                 "name": "John Walsh"
             },
             "tags": [
             ],
             "date_published": "2024-10-04T13:00:45-05:00",
-            "date_modified": "2024-10-04T13:00:45-05:00"
+            "date_modified": "2024-10-04T13:26:16-05:00"
         }
     ]
 }
