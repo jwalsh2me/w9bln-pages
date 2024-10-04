@@ -3,33 +3,10 @@
     <title>Whiskey 9 Bravo Lima November</title>
     <link href="https://jwalsh2.me/w9bln-pages/feed.xml" rel="self" />
     <link href="https://jwalsh2.me/w9bln-pages" />
-    <updated>2024-10-03T09:43:13-05:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>John Walsh</name>
     </author>
     <id>https://jwalsh2.me/w9bln-pages</id>
 
-    <entry>
-        <title>Hello World</title>
-        <author>
-            <name>John Walsh</name>
-        </author>
-        <link href="https://jwalsh2.me/w9bln-pages/hello-world.html"/>
-        <id>https://jwalsh2.me/w9bln-pages/hello-world.html</id>
-
-        <updated>2024-10-03T09:43:13-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Test post...
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Test post...
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
