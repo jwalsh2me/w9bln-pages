@@ -15,7 +15,7 @@
             "url": "https://w9bln.net/hello-world-2/",
             "title": "Hello World",
             "summary": "print(\"Hello World!\")",
-            "content_html": "<pre class=\"language-python line-numbers\"><code>print(\"Hello World!\")</code></pre>",
+            "content_html": "<pre class=\"language-python\"><code>print(\"Hello World!\")</code></pre>",
             "author": {
                 "name": "John Walsh"
             },

@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <pre class="language-python line-numbers"><code>print("Hello World!")</code></pre>
+                <pre class="language-python"><code>print("Hello World!")</code></pre>
             ]]>
         </content>
     </entry>
